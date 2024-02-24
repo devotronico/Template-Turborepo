@@ -1,5 +1,19 @@
-## Template Turborepo
-24/02/2024
+## Template-Turborepo
+24/02/2024 - file numero: 12
+- [reference-official](#reference-official)
+- [reference](#reference)
+- [note](#note)
+- [percorso-del-progetto](#percorso-del-progetto)
+- [struttura-file-e-cartelle](#struttura-file-e-cartelle)
+- [librerie-principali](#librerie-principali)
+- [void](#void)
+- [void](#void)
+- [void](#void)
+---
+### reference-official
+
+---
+### reference
 
 ---
 ### note
@@ -8,7 +22,8 @@ il package di `ui` che esporta componenti custom
 stilizzati con `tailwind`
 
 ---
-### struttura-file-e-cartelle
+### percorso-del-progetto
+D:\Sviluppo-Web-2\Next-Turborepo\Template-Turborepo
 
 ---
 ### struttura-file-e-cartelle
@@ -31,7 +46,13 @@ tailwind
 eslint
 typescript
 
+---
+### void
+---
+### void
+---
+### void
 
 ---
-### data-ultima 
+### [TORNA-SU](#Template-Turborepo)
 
