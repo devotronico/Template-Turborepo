@@ -1,5 +1,5 @@
 {
-  "name": "dm-projects-2",
+  "name": "template-turborepo",
   "private": true,
   "scripts": {
     "build": "turbo build",
