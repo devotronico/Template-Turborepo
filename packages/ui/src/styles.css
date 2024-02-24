@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 @layer components {
-  .tw_primary {
-    @apply bg-blue-500 text-white p-2 text-lg mb-10 rounded;
+  .tw_danger {
+    @apply bg-red-500 text-white p-2 text-lg mb-10 rounded;
   }
 }
